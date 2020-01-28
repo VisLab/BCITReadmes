@@ -8,9 +8,10 @@
 			  "Brent Lance",
 			  "Scott Kerick",
 			  "Anthony Ries",
+			  "Justin Brooks",
 			  "Kaleb McDowell"],
   "Acknowledgments": "Tony Johnson and Mike Dunkel from DCS Corporation originally curated the data in ESS (EEG Study Schema) format. Kay Robbins, Joe Lambeth and Jonathan Balraj of the University of Texas at San Antonio performed further curation and placed this dataset in BIDS format. The experiments were performed at Teledyne Laboratories (Durham, NC)  under contract with the US Army Research Laboratory. The study was reviewed and approved by the U.S. Army Human Research Protections Office (Protocol ARL 12-040) before the study began.",
-  "HowToAcknowledge": "Touryan, J., Apker, G., Lance, B.J., Kerick, S.E., Ries, A.J., McDowell, K., 2014. Estimating endogenous changes in task performance from EEG. Front. Neurosci. 8. https://doi.org/10.3389/fnins.2014.00155.",
+  "HowToAcknowledge": "Garcia, J.O., Brooks, J., Kerick, S., Johnson, T., Mullen, T.R., Vettel, J.M., 2017. Estimating direction in brain-behavior interactions: Proactive and reactive brain states in driving. NeuroImage 150, 239–249. https://doi.org/10.1016/j.neuroimage.2017.02.057."
   "Funding": ["This research was sponsored by the Army Research Laboratory and was accomplished under Cooperative Agreement Number W911NF-10-0-0002."],
   "ReferencesAndLinks": ["Touryan, J., Apker, G., Lance, B.J., Kerick, S.E., Ries, A.J., McDowell, K., 2014. Estimating endogenous changes in task performance from EEG. Front. Neurosci. 8. https://doi.org/10.3389/fnins.2014.00155.",
   "Brooks, J., Kerick, S., 2015. Event-related alpha perturbations related to the scaling of steering wheel corrections. Physiol. Behav. 149, 287–293. https://doi.org/10.1016/j.physbeh.2015.05.026.",
